@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I’m a passionate, data-driven recent graduate wi
     <td align="center" width="120">
       <img src="excel_logo.png" alt="Excel Logo">
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="MySQL.jpg" alt="MySQL Logo">
     </td>
-    <td align="center" width="50">
+    <td align="center" width="90">
       <img src="tableau.jpg" alt="Tableau Logo">
     </td>
   </tr>
