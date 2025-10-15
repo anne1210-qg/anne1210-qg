@@ -3,10 +3,10 @@ Welcome to my GitHub profile! I’m a passionate, data-driven recent graduate wi
 # 🛠️ Skills and Tools
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="excel_logo.png" alt="Excel Logo">
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="MySQL.jpg" alt="MySQL Logo">
     </td>
     <td align="center" width="90">
