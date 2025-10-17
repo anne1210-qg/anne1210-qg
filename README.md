@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a passionate, data-driven recent graduate wi
   </tr>
 </table> 
 
-# 💼 Projects
+# 💼 Featured Projects
 👥 *HR Attrition Analysis*: Analyzed employee data to uncover key turnover drivers and inform retention strategies.
 
 📈 *HR Recruitment Analysis*: Optimized recruitment processes by analyzing hiring metrics and candidate profiles.
