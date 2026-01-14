@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate, data-driven recent graduate wi
     <td align="center" width="110">
       <img src="MySQL.jpg" alt="MySQL Logo">
     </td>
-    <td align="center" width="140">
+    <td align="left" width="140">
       <img src="Power-BI-Logo.png" alt="PowerBI Logo">
     </td>
     <td align="center" width="75">
