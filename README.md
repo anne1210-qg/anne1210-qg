@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Anne
-Welcome to my GitHub profile! I’m a passionate, data-driven recent graduate with a background in Marketing and Media. Over the past six months, I’ve transitioned into the field of analytics, driven by curiosity and a desire to uncover the stories behind business challenges. I’m eager to apply data-driven approaches to generate meaningful insights and support comprehensive decision-making.
+Welcome to my GitHub profile! I’m a passionate, data-driven recent graduate with a background in Marketing and Media. Over the past eight months, I’ve transitioned into the field of data analytics, driven by curiosity and a desire to uncover the stories behind business challenges. I’m eager to apply data-driven approaches to generate meaningful insights and support comprehensive decision-making.
+
 # 🛠️ Skills and Tools
 <table>
   <tr>
