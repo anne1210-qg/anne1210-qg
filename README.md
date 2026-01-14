@@ -20,13 +20,16 @@ Welcome to my GitHub profile! I’m a passionate, data-driven recent graduate wi
 </table> 
 
 # 💼 Featured Projects
+📈 *Ecommerce PowerBI Dashboard*: Transformed raw data into actionable insights on sales, customer performance, and revenue distribution.
+
 👥 *HR Attrition Analysis*: Analyzed employee data to uncover key turnover drivers and inform retention strategies.
 
-📈 *HR Recruitment Analysis*: Optimized recruitment processes by analyzing hiring metrics and candidate profiles.
+*HR Recruitment Analysis*: Optimized recruitment processes by analyzing hiring metrics and candidate profiles.
 
 💰 *Retail Sales Analysis*: Identified key sales trends and customer segments to provide data-driven growth recommendations.
 
 # 🎓  Certification 
+- [Power BI for Beginners](https://udemy-certificate.s3.amazonaws.com/pdf/UC-41a8d1a1-0f9b-41e3-aab3-222594752db1.pdf)
 - [Data Visualization in Excel](https://www.coursera.org/account/accomplishments/verify/THSSE234YP53)
 - [Excel Fundamentals for Data Analysis](https://www.coursera.org/account/accomplishments/verify/FBC6GUED8061)
 - [Excel Skills for Business: Intermediate](https://www.coursera.org/account/accomplishments/verify/AG1DNWCBQ0BR)
